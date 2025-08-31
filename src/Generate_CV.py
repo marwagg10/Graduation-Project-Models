@@ -12,7 +12,7 @@ from transformers import pipeline
 import google.generativeai as genai
 
 # Configure Gemini API
-api_key = 'AIzaSyC9y5TV-XrQrg5FklO9OcWQ28C1k3jQFq4'
+api_key = 'api_key'
 if api_key:
     genai.configure(api_key=api_key)
 
