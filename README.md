@@ -1,10 +1,5 @@
 # Hiro – Smart Hiring Platform
 
-Proud to present my graduation project **Hiro – Smart Hiring Platform**!  
-As an **AI Engineer**, I designed and implemented several AI models that power the platform’s intelligent features and deliver a personalized job-matching experience.
-
----
-
 ## About Hiro
 
 Hiro is a **smart hiring platform** that combines **job searching** with **social media features** to create a modern, interactive experience.  
@@ -12,7 +7,7 @@ The goal is to simplify the job-hunting process with **AI-driven recommendations
 
 ---
 
-## 🔍 Key AI Models Developed
+## Key AI Models Developed
 
 ###  1. ATS Resume Parser
 A model inspired by Applicant Tracking Systems (ATS) to analyze resumes and provide:
@@ -46,9 +41,9 @@ Enhances engagement with technical content:
 
 ##  Tech Stack
 - **Programming Language:** Python  
-- **Machine Learning & NLP:** scikit-learn, TensorFlow, NLTK, spaCy  
+- **Machine Learning & NLP:** scikit-learn, TensorFlow, NLTK, spaCy ,Hugging Face Transformers ,PIL
 - **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Development Environment:** Google Colab, Jupyter Notebook  
+- **Development Environment:** Google Colab, Visual Studio 
 - **Version Control:** Git & GitHub
 
 ---
